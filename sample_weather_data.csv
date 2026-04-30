@@ -1,0 +1,6 @@
+city,temperature_f,temperature_c,feels_like_f,feels_like_c,humidity,wind,condition,last_updated
+Matanzas,89.6,32.0,93.1,34.0,49,11.6,Sunny,2026-04-30 15:00
+Louisville,59.5,15.3,59.5,15.3,37,7.8,Sunny,2026-04-30 15:00
+Miami,86.5,30.3,94.2,34.6,59,15.2,Partly cloudy,2026-04-30 14:45
+Montevideo,73.6,23.1,76.5,24.7,47,2.2,Sunny,2026-04-30 16:00
+Denver,46.9,8.3,42.7,5.9,49,8.7,Overcast,2026-04-30 13:00
